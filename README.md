@@ -14,23 +14,6 @@ Welcome! This is my **Portfolio** project, a personal website to showcase my wor
 
 ---
 
-## 🚀 Quick Start
-# Clone the repository
-git clone https://github.com/Mohamed3taa/portfolioo.git
-
-# Go to project folder
-cd portfolioo
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-
-Open your browser at `http://localhost:3000`
-
----
-
 ## 📬 Contact
 - Email: mohammadataaelbassal@gmail.com
 - GitHub: https://github.com/Mohamed3taa
